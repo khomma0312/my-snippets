@@ -55,4 +55,6 @@ function connect() {
 		exit;
 	}
 }
+
+connect();
 ```
